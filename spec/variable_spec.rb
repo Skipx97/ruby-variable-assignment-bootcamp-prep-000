@@ -1,3 +1,4 @@
+puts greeting
 greeting = "Hello World"
 describe "./variable.rb" do
 
